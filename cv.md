@@ -46,5 +46,5 @@ Development is an integral part of my journey. One of the branches of this proce
 —
 
 ### English level 
-A1 (Elementary)
+A1 - Elementary
 
