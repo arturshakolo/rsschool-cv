@@ -1,1 +1,17 @@
+img {
+    position: relative;
+    top: 10px;
+    right: 5px;
+    padding: 50px;
+    margin: 20px 500px 10px 50px;
+    background-color: rgb(255, 255, 255)
+    }
+h1 {
+    position: relative;
+    background-color: bisque;
+    } 
+h3 {
+    background-color: beige;
+}
 
+    
