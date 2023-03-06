@@ -18,7 +18,7 @@
 Hello!
 Development is an integral part of my journey. One of the branches of this process is Java Script/FE development. In addition, today I am interested in the topics of the brain. I also have entrepreneurial experience. And other. Day by day there are correlations from different areas of my activity. It's sort of a pull request into my identity.
 
-*********************************************************=
+*********************************************************
 
 ### skills
 
