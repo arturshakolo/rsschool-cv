@@ -20,7 +20,7 @@ Development is an integral part of my journey. One of the branches of this proce
 
 *********************************************************
 
-### skills
+### Skills
 
 * HTML
 * CSS  
@@ -36,7 +36,7 @@ function capitalizeWord(word) {
 }
 
 *********************************************************
-### work experience
+### Work experience
 
 * entrepreneur in the field of small cargo transportation
 * Hired in warehouse logistics
