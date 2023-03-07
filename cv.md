@@ -44,7 +44,7 @@ function capitalizeWord(word) {
 * Hired in warehouse logistics
 * coaching practice
 * JS/FE Pre School 2022Q4
-* JavaScript/Front-end 2023Q1 (in progress...)
+* _JavaScript/Front-end 2023Q1 (in progress...)_
 
 *********************************************************
 
@@ -52,6 +52,6 @@ function capitalizeWord(word) {
 
 A1 (Elementary)
 
-A2 (in progress...)
+_A2 (in progress...)_
 
 *********************************************************
