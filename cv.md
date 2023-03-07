@@ -2,7 +2,7 @@
 ###### Junior Frontend Developer
 
 *********************************************************
-![myFoto] (file:///Users/fitart.bygmail.com/Documents/IT%20Project/stage1/rsschool-cv-/IMG_1256.png)
+![myFoto](IMG_1256.png)
 *********************************************************
 ### Contacts
 
@@ -31,9 +31,9 @@ Development is an integral part of my journey. One of the branches of this proce
 
 ### Code example
 
-function capitalizeWord(word) {
+``` function capitalizeWord(word) {
   return word[0].toUpperCase() + word.slice(1);
-}
+} ```
 
 *********************************************************
 ### Work experience
