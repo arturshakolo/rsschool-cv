@@ -33,7 +33,8 @@ Development is an integral part of my journey. One of the branches of this proce
 
 ``` function capitalizeWord(word) {
   return word[0].toUpperCase() + word.slice(1);
-} ```
+} 
+```
 
 *********************************************************
 ### Work experience
